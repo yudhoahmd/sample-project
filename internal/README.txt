@@ -1,1 +1,0 @@
-folder yang berisikan aplikasi atau kode yang bersifat internal dan hanya digunakan  di dalam aplikasi ini saja. tidak untuk digunakan secara publik.
